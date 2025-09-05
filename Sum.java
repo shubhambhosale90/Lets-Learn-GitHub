@@ -4,5 +4,6 @@ public class Sum {
         int b = 3;
 
         System.out.println("Sum of two numbers  : "+(a+b));
+        System.out.println("Added Extra Message");
     }
 }
